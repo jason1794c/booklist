@@ -17,7 +17,7 @@ const useStyles = makeStyles(() => ({
         justifyContent: "space-around",
         alignItems: "center",
         margin: "10px",
-        width: "20vw"
+        width: "250px"
     },
     cardText: {
         display: "flex",
