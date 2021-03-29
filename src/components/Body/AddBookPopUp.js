@@ -32,7 +32,7 @@ const useStyles = makeStyles(() => ({
         alignItems: "center",
     },
     input: {
-        width: "35vw"
+        width: "90%"
     },
     actions: {
         display: "flex",
